@@ -458,6 +458,4 @@ Mensagens importantes da implementação atual:
 
 ## Autor
 
-Nome do desenvolvedor: seu nome aqui
-
-Se desejar, substitua o texto acima pelo seu nome e mantenha este README como documentação oficial do projeto.
+Nome do desenvolvedor: Pedro Paulo Veiga Lima
