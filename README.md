@@ -133,6 +133,7 @@ Servidor rodará em `http://localhost:3333`
 
 ## ❌ Erros Comuns
 
+<<<<<<< HEAD
 | Status | Mensagem | Solução |
 |--------|----------|---------|
 | 401 | JWT token not found | Enviar token no header Authorization |
